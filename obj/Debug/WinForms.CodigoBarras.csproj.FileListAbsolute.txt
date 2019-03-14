@@ -1,0 +1,13 @@
+C:\Users\admin\Documents\GitHub\WinForms.CodigoBarras\WinForms.CodigoBarras\bin\Debug\WinForms.CodigoBarras.exe
+C:\Users\admin\Documents\GitHub\WinForms.CodigoBarras\WinForms.CodigoBarras\bin\Debug\WinForms.CodigoBarras.pdb
+C:\Users\admin\Documents\GitHub\WinForms.CodigoBarras\WinForms.CodigoBarras\bin\Debug\zxing.dll
+C:\Users\admin\Documents\GitHub\WinForms.CodigoBarras\WinForms.CodigoBarras\bin\Debug\zxing.presentation.dll
+C:\Users\admin\Documents\GitHub\WinForms.CodigoBarras\WinForms.CodigoBarras\bin\Debug\zxing.pdb
+C:\Users\admin\Documents\GitHub\WinForms.CodigoBarras\WinForms.CodigoBarras\bin\Debug\zxing.xml
+C:\Users\admin\Documents\GitHub\WinForms.CodigoBarras\WinForms.CodigoBarras\bin\Debug\zxing.presentation.pdb
+C:\Users\admin\Documents\GitHub\WinForms.CodigoBarras\WinForms.CodigoBarras\bin\Debug\zxing.presentation.xml
+C:\Users\admin\Documents\GitHub\WinForms.CodigoBarras\WinForms.CodigoBarras\obj\Debug\WinForms.CodigoBarras.csprojAssemblyReference.cache
+C:\Users\admin\Documents\GitHub\WinForms.CodigoBarras\WinForms.CodigoBarras\obj\Debug\WinForms.CodigoBarras.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\WinForms.CodigoBarras\WinForms.CodigoBarras\obj\Debug\WinForms.CodigoBarras.csproj.CopyComplete
+C:\Users\admin\Documents\GitHub\WinForms.CodigoBarras\WinForms.CodigoBarras\obj\Debug\WinForms.CodigoBarras.exe
+C:\Users\admin\Documents\GitHub\WinForms.CodigoBarras\WinForms.CodigoBarras\obj\Debug\WinForms.CodigoBarras.pdb
