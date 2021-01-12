@@ -23,7 +23,7 @@ namespace WinForms.CodigoBarras
             barcodeWriter.Format = BarcodeFormat.CODE_39;
 
             // write text and generate a 2-D barcode as a bitmap
-            barcodeWriter.Write(strCodigo).Save(@"D:\\"+ strCodigo + ".bmp");
+            barcodeWriter.Write(strCodigo).Save(@"D:\\"+ strCodigo + ".png");
         }
     }
 }
